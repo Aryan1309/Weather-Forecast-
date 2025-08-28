@@ -1,0 +1,1 @@
+This is a basic javascript project displaying weather forecast.
