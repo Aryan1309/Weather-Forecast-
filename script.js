@@ -1,4 +1,4 @@
-const apiKey = 'YOUR_API_KEY'; // Replace with your OpenWeather API key
+import { weatherApiKey as apiKey } from './config.js'  // Replace with your OpenWeather API key
 const searchBtn = document.getElementById('searchBtn');
 
 searchBtn.addEventListener('click', () => {
